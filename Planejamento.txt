@@ -4,3 +4,5 @@ Etapa 2
 Fazer o boneco andar 
 Etapa 3
 Fazer o mapa
+Etapa 4
+Fazer NPCs
