@@ -1,0 +1,6 @@
+Etapa 1
+Fazer o boneco 
+Etapa 2 
+Fazer o boneco andar 
+Etapa 3
+Fazer o mapa
